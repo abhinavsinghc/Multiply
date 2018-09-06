@@ -18,7 +18,7 @@ int add1(int a , int b)
 public static void main(String[] args)
 {
   mul a = new mul();
-  int z= a.add(2,3) * a.add1(4,5);
+  int z= a.add(2,3) * a.add1(4,10);
   System.out.println("Multiplication is" + z);
   
 }
